@@ -8,3 +8,7 @@ Chemical Engineer passionate about design of industrial processess and the emplo
 - PSeInt, GIT.
 - Excel and VBA.
 - ASPEN HYSYS and PLUS.
+
+## Skills
+- Problem solving.
+- Analytical thinking.
