@@ -13,5 +13,9 @@ Chemical Engineer passionate about design of industrial processess and the emplo
 - Problem solving.
 - Analytical thinking.
 
+## Languages
+- Spanish: Native
+- English: Intermediate
+
 ## Hobbies
 - Chess and games.
