@@ -12,3 +12,6 @@ Chemical Engineer passionate about design of industrial processess and the emplo
 ## Skills
 - Problem solving.
 - Analytical thinking.
+
+## Hobbies
+- Chess and games.
